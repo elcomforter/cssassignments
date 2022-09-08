@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,300;1,400&family=Cormorant:ital@1&family=Indie+Flower&family=Orelega+One&family=Lato&family=Patua+One&family=Quicksand:wght@300&family=Satisfy&family=Source+Sans+3:wght@600&display=swap');
+
+*{
+    width: 99%;
+}
+#thotlogo{
+    height: 80px;
+    width: 180px;
+    margin-top: 40px;
+}
+#section0{
+    /* border: thin solid blue; */
+    background-color: white;
+    width: 100%;
+    height: 80px;
+    padding: 0 50px;
+    position: fixed;
+    margin: -8px auto auto 0;
+
+}
+#header{
+    /* border: thin solid green; */
+    background-color:white;
+    display: flex;
+    width: 80%;
+    margin: -4px auto auto 70px;
+    height: 40px;
+    padding: 20px;
+    align-items: center;
+    justify-content:space-between;
+    position:fixed ;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 0.7em;
+    font-variant: ;
+}
+a:hover {
+    background-color: white;
+    color: #ED8585;
+    text-decoration: underline;
+}
+header nav ul{
+    list-style: none;
+}
+header nav ul li a {
+    text-decoration: none;
+    color: black;
+    
+}
+.logo{
+    width: 100px;
+}
+#navPane{
+    display: flex;
+    justify-items: ;
+    text-decoration: none;
+    text-emphasis-color: #ED8585;
+    width: 54%;
+}
+#btn1{
+    background-color: #CE2D2D;
+    height: 40px;
+    width: 120px;
+    border-radius: 10%;
+    color: white;
+}
+.section1{
+    /* border: thin solid magenta; */
+    background-color:white;
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    margin: auto;
+    height: 360px;
+    padding: 120px 50px;
+}
+#box1{
+    /* border: thin solid blue; */
+    width: 45%;
+    height: 450px;
+    
+}
+#box1 h1{
+    font-family: 'Patua One', cursive;
+    font-size: 3em;
+    font-weight:800;
+    line-height: 1;
+}
+#box1 p{
+    font-family: 'Lato', sans-serif;
+    font-size: 0.95em;
+    line-height: 1.5;
+}
+#btn2{
+    background: #CE2D2D;
+    height: 40px;
+    width: 100px;
+    border-radius: 30%;
+    color: white;
+}
+#box2{
+    /* border: thin solid yellow; */
+    width: 48%;
+    height: 450px;
+}
+#slide{
+    /* border: thin solid brown; */
+    width: 80%;
+    margin: auto;
+}
+#slide p{
+    font-family: 'Lato', sans-serif;
+    font-size: 0.7em;
+    font-weight: lighter;
+}
+#slide h1{
+    font-family: 'Patua One', cursive;
+    font-size: 0.em;
+}
+.section2{
+    /* border: thin solid green; */
+    display: flex;
+    background-color: #F0F0F8;
+    height: 500px;
+    width: 80%;
+    margin: 20px auto;
+}
+#box3{
+    /* border: thin solid yellow; */
+    height: 500px;
+    width: 2600px;
+    margin: 0px;
+}
+#box4{
+    /* border: thin solid red; */
+    padding: 80px 40px;
+    height: 300px;
+    width: 1000px;
+    /* margin: 0 10px; */
+}
+.section3{
+    /* border: thin solid blue; */
+    display: flex;
+    justify-content: space-between;
+    background-color: white
+    height: 530px;
+    width: 90%;
+    margin: auto;
+}
+.servicebox{
+    /* border: thin solid green; */
+    width: 90%;
+    margin: 50px auto;
+}
+.spans{
+    /* border: thin solid grey; */
+    display: flex;
+    height: 300px;
+    width: 90%;
+    margin: 0 auto 0;
+    margin-bottom: 50px;
+}
+}
+#box5{
+    /* border: thin solid cyan; */
+    height: 300px;
+    width: 2000px;
+    margin-right: 40px;
+}
+#box6{
+    /* border: thin solid red; */
+    height: 300px;
+    width: 1200px;
+    margin-left: 40px;
+}
+.section5{
+    /* border: thin solid blue; */
+    display: flex;
+    justify-content: space-between;
+    background-color: white
+    height: 530px;
+    width: 90%;
+    margin: auto;
+}
